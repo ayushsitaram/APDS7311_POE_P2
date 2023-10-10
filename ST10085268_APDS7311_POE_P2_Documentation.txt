@@ -1,0 +1,10 @@
+Name: Ayush Sitaram
+Student Number: ST10085269
+Lecturer: Sarina Till
+Degree: BCAD 
+-------------------------------------------
+
+Connection String: mongodb+srv://ayushsitaram:fCpbmN5yl4U0dDi5@cluster0.kfi0jdw.mongodb.net/?retryWrites=true&w=majority
+
+
+Git link: https://github.com/ayushsitaram/APDS7311_POE_P2
